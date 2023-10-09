@@ -14,8 +14,10 @@ Before running the code, ensure that you have the following prerequisites instal
 - Fiona
 - Rioxarray
 - Matplotlib
+- dask
+- dask_image
 
-You can install these dependencies using `pip`:
+You can install these dependencies using `pip` / `conda`
 
 
 ## Usage
